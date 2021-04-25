@@ -3,6 +3,9 @@ const ctx = canvas.getContext("2d");
 canvas.width  = window.innerWidth;
 canvas.height = window.innerHeight;
 
+var shapeColor = ["red","cyan","purple","yellow", "orange", "gold", "blue", "green"];
+var randColor = shapeColor[Math.floor(Math.random() * shapeColor.length)];
+
     //draws circle
     function drawCircle(cx,cy,spikes,Radius){
       var rot=Math.PI/2*3;
@@ -19,7 +22,7 @@ canvas.height = window.innerHeight;
       
       //Line Size and Outline Color
       ctx.lineWidth=2;
-      ctx.strokeStyle='red';
+      ctx.strokeStyle=randColor;
       ctx.stroke();
 }
 
