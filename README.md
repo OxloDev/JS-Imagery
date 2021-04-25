@@ -5,4 +5,4 @@ https://twitter.com/OxloMusic
 
 Creates stunning images using JS and HTML's Canvas Element
 
-[![JS-Imagery](https://media.giphy.com/media/JdgPgCrLWO7yz6p9Z5/giphy.gif)
+![JS-Imagery](https://media.giphy.com/media/JdgPgCrLWO7yz6p9Z5/giphy.gif)
