@@ -6,7 +6,7 @@
 https://twitter.com/OxloMusic
 
 
-Creates stunning images using JS and HTML's Canvas Element
+Swiftly creates stunning images using JS and HTML's Canvas Element
 
 
 ![](Demo.gif)
